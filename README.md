@@ -1,6 +1,6 @@
 
 ## Waterfall Model - Design
-## This project has three iteration
+*This project has three iteration*
 ## Project Proposal 
 >- Proposal
 >- set up envrioment
