@@ -7,7 +7,7 @@
 ## Iteration1:
 >- **Requirement Gathering and analysis**
 >- **System Design**
->- **Implementation **
+>- **Implementation**
 
 ### Requirement Gathering and analysis document
 - Functional Requirements
@@ -34,13 +34,14 @@
 >- the class program logic
 
 ## Iteration2:
->- **Implementation **
+>- **Implementation**
 
 ## Iteration3:
 >- **Integration and Testing**
 >- **Deployment of system**
 >- **Maintenance**
 
+# UML
 ![UML](https://github.com/dryadd44651/Flashcard/blob/master/UML.gif)
 
 
