@@ -1,8 +1,15 @@
 
+## Waterfall Model - Design
 ## This project has three iteration
-
+## Project Proposal 
+>- Proposal
+>- set up envrioment
 ## Iteration1:
-### Requirements
+>- **Requirement Gathering and analysis**
+>- **System Design**
+>- **Implementation **
+
+### Requirement Gathering and analysis document
 - Functional Requirements
 >- system key function
 - Non-functional Requirements
@@ -25,3 +32,15 @@
 >- How the Use Cases map the Requirements
 > Sequence Diagrams
 >- the class program logic
+
+## Iteration2:
+>- **Implementation **
+
+## Iteration3:
+>- **Integration and Testing**
+>- **Deployment of system**
+>- **Maintenance**
+
+![UML](https://github.com/dryadd44651/Flashcard/blob/master/UML.gif)
+
+
